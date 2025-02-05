@@ -4,9 +4,9 @@
   <img src="/img/glosario.gif" alt="![glosario](/img/glosario.gif)" />
 </p>  
 
-### 📌 IP (Internet Protocol)
+# 📌 IP (Internet Protocol)
 Es una dirección única que identifica un dispositivo en una red.  
-**Ejemplos:** 172.26.1.1 para IPv4 y 2001:db8::ff00:42:8329 para IPv6.  
+*Ejemplos:* 172.26.1.1 para IPv4 y 2001:db8::ff00:42:8329 para IPv6.  
 
 <p align="center">
   <img src="/img/ip.jpg" alt="![ip](/img/ip.jpg)" />
