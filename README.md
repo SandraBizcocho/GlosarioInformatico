@@ -10,7 +10,7 @@ Es una dirección única que identifica un dispositivo en una red.
 
 <p align="center">
   <img src="/img/ip.jpg" alt="![ip](/img/ip.jpg)" />
-</p>  
+</p>    
 
 ### 🌐 Dominio  
 Nombre fácil de recordar que apunta a una dirección IP.  
