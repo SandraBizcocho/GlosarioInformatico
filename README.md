@@ -16,6 +16,10 @@ Es una dirección única que identifica un dispositivo en una red.
 Nombre fácil de recordar que apunta a una dirección IP.  
 **Ejemplo:** `google.com` → `142.250.184.238`  
 
+<p align="center">
+  <img src="/img/dominio.webp" alt="![dominio](/img/dominio.webp)" />
+</p>  
+
 ### 🔗 URL (Uniform Resource Locator)  
 Dirección completa de un recurso en la web.  
 **Ejemplo:** `https://www.ejemplo.com/pagina.html`  
