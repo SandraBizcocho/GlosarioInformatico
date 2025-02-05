@@ -6,7 +6,7 @@
 
 ### 📌 IP (Internet Protocol)
 Es una dirección única que identifica un dispositivo en una red.  
-**Ejemplo:** `192.168.1.1` (IPv4) o `2001:db8::ff00:42:8329` (IPv6).  
+**Ejemplo:** `172.26.1.1` (IPv4) o `2001:db8::ff00:42:8329` (IPv6).  
 
 <p align="center">
   <img src="/img/ip.jpg" alt="![ip](/img/ip.jpg)" />
