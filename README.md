@@ -4,10 +4,13 @@
   <img src="/img/glosario.gif" alt="![glosario](/img/glosario.gif)" />
 </p>  
 
-## 🌍 Red y Direcciones  
 ### 📌 IP (Internet Protocol)  
 Dirección única que identifica un dispositivo en una red.  
 **Ejemplo:** `192.168.1.1` (IPv4) o `2001:db8::ff00:42:8329` (IPv6).  
+
+<p align="center">
+  <img src="/img/ip.jpg" alt="![ip](/img/ip.jpg)" />
+</p>  
 
 ### 🌐 Dominio  
 Nombre fácil de recordar que apunta a una dirección IP.  
