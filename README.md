@@ -120,7 +120,7 @@
 *Ejemplos: TCP/IP, FTP, HTTP.*
 
 <p align="center">
-  <img src="/img/protocolo.webp" alt="![protocolo](/img/protocolo.webp)" />
+  <img src="/img/protocolo.png" alt="![protocolo](/img/protocolo.png)" />
 </p> 
 
 ### ¿Qué es 🖥️ RDP?  
