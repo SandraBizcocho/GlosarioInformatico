@@ -1,6 +1,4 @@
-# Glosario Informatico
-
-<p align="center">
+# Glosario Informatico <p align="center">
   <img src="/img/glosario.gif" alt="![glosario](/img/glosario.gif)" />
 </p>  
 
