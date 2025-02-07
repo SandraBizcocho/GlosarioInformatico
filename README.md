@@ -12,9 +12,10 @@ Es una dirección única que identifica un dispositivo en una red.
   <img src="/img/ip.jpg" alt="![ip](/img/ip.jpg)" />
 </p>    
 
+
 ### 🌐 ¿Qué es un Dominio?  
-Un dominio es el nombre único que identifica a un sitio web en Internet. La dirección que los usuarios escriben en su navegador para acceder a una página sin necesidad de recordar su dirección IP.  
-**Ejemplo:** 'Wikipedia' → `Dominio: wikipedia.org`  
+** Un dominio es el nombre único que identifica a un sitio web en Internet. La dirección que los usuarios escriben en su navegador para acceder a una página sin necesidad de recordar su dirección IP.** 
+Ejemplo: 'Wikipedia' → `Dominio: wikipedia.org`  
 
 <p align="center">
   <img src="/img/dominio.webp" alt="![dominio](/img/dominio.webp)" />
