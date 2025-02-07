@@ -5,7 +5,7 @@
 </p>  
 
 ## ¿Qué es una IP (Internet Protocol) 📌?
-Es una dirección única que identifica un dispositivo en una red.  
+**Es una dirección única que identifica un dispositivo en una red.**    
 *Ejemplos:* 172.26.1.1 para IPv4 y 2001:db8::ff00:42:8329 para IPv6.  
 
 <p align="center">
@@ -15,15 +15,17 @@ Es una dirección única que identifica un dispositivo en una red.
 
 ### 🌐 ¿Qué es un Dominio?  
 **Un dominio es el nombre único que identifica a un sitio web en Internet. La dirección que los usuarios escriben en su navegador para acceder a una página sin necesidad de recordar su dirección IP.**   
-Ejemplo: 'Wikipedia' → `Dominio: wikipedia.org`  
+*Ejemplo:* Wikipedia → `Dominio: wikipedia.org`  
 
 <p align="center">
   <img src="/img/dominio.webp" alt="![dominio](/img/dominio.webp)" />
 </p>  
 
-### 🔗 URL (Uniform Resource Locator)  
-Dirección completa de un recurso en la web.  
-**Ejemplo:** `https://www.ejemplo.com/pagina.html`  
+
+###  ¿Qué es URL (Uniform Resource Locator)🔗?
+**Una URL es la dirección completa que apunta a un recurso en Internet, como una página web, imagen o archivo. Es la forma en que los navegadores encuentran y acceden a sitios web.**    
+*Ejemplo:* `https://www.ejemplo.com/pagina.html`  
+
 
 ### 🚪 Puertos  
 - **21** → FTP (Transferencia de archivos).  
