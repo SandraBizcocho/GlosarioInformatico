@@ -6,7 +6,7 @@
 
 ## ¿Qué es una IP (Internet Protocol) 📌?
 **Es una dirección única que identifica un dispositivo en una red.**    
-*Ejemplos:* 172.26.1.1 para IPv4 y 2001:db8::ff00:42:8329 para IPv6.  
+*Ejemplos: 172.26.1.1 para IPv4 y 2001:db8::ff00:42:8329 para IPv6*  
 
 <p align="center">
   <img src="/img/ip.jpg" alt="![ip](/img/ip.jpg)" />
@@ -15,7 +15,7 @@
 
 ### 🌐 ¿Qué es un Dominio?  
 **Un dominio es el nombre único que identifica a un sitio web en Internet. La dirección que los usuarios escriben en su navegador para acceder a una página sin necesidad de recordar su dirección IP.**   
-*Ejemplo:* Wikipedia → `Dominio: wikipedia.org`  
+*Ejemplo: Wikipedia → Dominio: wikipedia.org*   
 
 <p align="center">
   <img src="/img/dominio.webp" alt="![dominio](/img/dominio.webp)" />
@@ -24,16 +24,28 @@
 
 ###  ¿Qué es URL (Uniform Resource Locator)🔗?
 **Una URL es la dirección completa que apunta a un recurso en Internet, como una página web, imagen o archivo. Es la forma en que los navegadores encuentran y acceden a sitios web.**    
-*Ejemplo:* `https://www.ejemplo.com/pagina.html`  
+*Ejemplos*
+'✅ Página web: https://www.google.com' 
+'✅ Imagen: https://ejemplo.com/imagen.jpg'  
+'✅ Descarga: https://ejemplo.com/archivo.zip'  
+'✅ Video en YouTube: https://www.youtube.com/watch?v=dQw4w9WgXcQ'  
+
+📌 Dato Curioso: Cada URL es única y permite acceder a recursos desde cualquier parte del mundo 🌍.*  
 
 
-### 🚪 Puertos  
-- **21** → FTP (Transferencia de archivos).  
-- **22** → SSH (Conexión remota segura).  
-- **80** → HTTP (Navegación web sin cifrar).  
-- **443** → HTTPS (Navegación web cifrada).  
+### ¿Qué son los Puertos 🔌?
+**Un puerto es un número que identifica un servicio específico en un dispositivo dentro de una red. Es como una "puerta" a través de la cual se comunican los protocolos de Internet.**
 
----
+- **21** → FTP (Transferencia de archivos 📂).  
+- **22** → SSH (Conexión remota segura 🔒).  
+- **80** → HTTP (Navegación web sin cifrar 🌍).  
+- **443** → HTTPS (Navegación web cifrada 🔐).
+*Ejemplos*
+'🔹 Cuando accedes a http://ejemplo.com, el navegador usa puerto 80.'  
+'🔹 Si visitas https://ejemplo.com, usa puerto 443.'  
+'🔹 Si te conectas a un servidor por SSH, usarás puerto 22.'  
+
+
 
 ## 🖥️ Servicios y Protocolos  
 ### 📂 Servicio de Directorio  
