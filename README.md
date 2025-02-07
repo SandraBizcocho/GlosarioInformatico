@@ -3,6 +3,7 @@
 ___
 
 ## ¿Qué es una IP (Internet Protocol) 📌?
+...
 **Es una dirección única que identifica un dispositivo en una red.**    
 
 *Ejemplos: 172.26.1.1 para IPv4 y 2001:db8::ff00:42:8329 para IPv6*    
