@@ -2,7 +2,7 @@
 
 ___
 
-## ¿Qué es una IP (Internet Protocol) 📌?
+## 📌 ¿Qué es una IP (Internet Protocol)?
 ---
 **Es una dirección única que identifica un dispositivo en una red.**    
 
@@ -26,7 +26,7 @@ ___
 
 ___
 
-###  ¿Qué es URL (Uniform Resource Locator)🔗?
+### 🔗 ¿Qué es URL (Uniform Resource Locator)?
 ---
 **Una URL es la dirección completa que apunta a un recurso en Internet, como una página web, imagen o archivo. Es la forma en que los navegadores encuentran y acceden a sitios web.**      
 
@@ -44,7 +44,7 @@ ___
 
 ___
 
-### ¿Qué son los Puertos 🔌?
+### 🔌 ¿Qué son los Puertos?
 ---
 **Un puerto es un número que identifica un servicio específico en un dispositivo dentro de una red. Es como una "puerta" a través de la cual se comunican los protocolos de Internet.**
 
@@ -65,7 +65,7 @@ ___
 ___
 
 
-### ¿Qué es un 📂 Servicio de Directorio?
+### 📂 ¿Qué es un Servicio de Directorio?
 ---
 **Un servicio de directorio es un sistema que almacena, organiza y gestiona información sobre usuarios y dispositivos, aplicaciones y otros recursos en una red. Es esencial para la administración centralizada de una infraestructura informática.**    
 
@@ -82,11 +82,12 @@ ___
 
 ___
 
-### ¿Qué es OpenLDAP 🏢?
+### 🏢 ¿Qué es OpenLDAP?
 ---
 **Es una implementación de código abierto del protocolo LDAP (Lightweight Directory Access Protocol), que permite gestionar información de usuarios (como nombres y contraseñas), grupos y otros recursos dentro de una red de forma centralizada.**   
 
 *Ejemplo: una red universitaria para estudiantes y profesores donde se implementa OpenLDAP para gestionar el acceso a los sistemas de información académica (notas, clases, horarios) y a los servicios de biblioteca.*  
+
 💡 Beneficio: Los estudiantes y profesores usan una única cuenta para todos los servicios de la universidad, lo que simplifica la administración.
 
   
@@ -96,7 +97,7 @@ ___
 
 ___
 
-### ¿Qué significa 🏛️ Active Directory?
+### 🏛️ ¿Qué significa Active Directory?
 ---
 **Active Directory (AD) es una herramienta de Microsoft que ayuda a gestionar y organizar los recursos de una red, como usuarios, computadoras, impresoras y otros dispositivos. Se usa principalmente en redes Windows.**  
 
@@ -108,7 +109,7 @@ ___
 
 ___
 
-### ¿Qué son 🔒 HTTP vs HTTPS?  
+### 🔒 ¿Qué son HTTP vs HTTPS?  
 ---
 **HTTP (HyperText Transfer Protocol) y HTTPS (HyperText Transfer Protocol Secure) son protocolos que se utilizan para la transferencia de datos entre tu navegador web y un servidor web. La principal diferencia entre ambos radica en la seguridad de la conexión.**
 - **HTTP**: Transfiere datos sin cifrado.    
@@ -125,7 +126,7 @@ ___
 
 ___
 
-### ¿Qué es un servicio DNS 🌍?   
+### 🌍 ¿Qué es un servicio DNS?   
 ---
 **El DNS (Domain Name System) es un sistema que traduce nombres de dominio legibles por humanos (como www.ejemplo.com) en direcciones IP (como 172.26.1.1), que es el formato utilizado por los pcs para identificar y comunicarse entre sí a través de Internet.**     
 
@@ -137,7 +138,7 @@ ___
 
 ___
 
-### ¿Qué son los 🌐 Servicios Web?
+### 🌐 ¿Qué son los Servicios Web?
 ---
 **Los servicios web son programas que permiten que los sitios web sean accesibles a través de Internet. Se encargan de recibir las solicitudes de los navegadores y enviar los archivos correspondientes, como HTML, imágenes, o archivos multimedia. Dos de los servicios web más populares son Apache y Nginx.**  
 
@@ -150,7 +151,7 @@ ___
 
 ___
 
-### ¿Qué es un protocolo 📡?
+### 📡 ¿Qué es un protocolo?
 ---
 **Un protocolo es un conjunto de reglas que define cómo los dispositivos se comunican, cómo deben organizarse y enviarse los datos, y cómo se maneja la seguridad y la fiabilidad durante la comunicación. Sin protocolos, los dispositivos no podrían entenderse ni intercambiar información de manera efectiva.**  
 
@@ -162,7 +163,7 @@ ___
 
 ___
 
-### ¿Qué es 🖥️ RDP?  
+### 🖥️ ¿Qué es RDP?  
 ---
 **El Remote Desktop Protocol (RDP) es una herramienta poderosa que permite acceder de forma remota a una computadora a través de una red. Es útil para soporte técnico, teletrabajo y administración de servidores. Sin embargo, es importante configurar RDP de manera segura para evitar posibles vulnerabilidades.**  
 
@@ -174,7 +175,7 @@ ___
 
 ___
 
-### ¿Qué es 🔑 SSH (Secure Shell)?
+### 🔑 ¿Qué es SSH (Secure Shell)?
 ---
 **SSH es un protocolo de acceso remoto que permite administrar servidores y ejecutar comandos de forma segura. Se utiliza ampliamente para la administración de sistemas y transferencia de archivos, y es la opción preferida por su capacidad para cifrar la comunicación y ofrecer autenticación robusta.**  
 
@@ -187,7 +188,7 @@ ___
 
 ___
 
-### ¿Qué es Cloud (Nube)? ☁️
+### ☁️ ¿Qué es Cloud (Nube)? 
 ---
 **La nube es un modelo de computación que ofrece acceso remoto a recursos informáticos a través de Internet. Permite a las empresas y usuarios acceder a servicios como almacenamiento, procesamiento de datos, y aplicaciones sin necesidad de infraestructura local, lo que ofrece flexibilidad, escalabilidad y ahorro de costos.**  
 
@@ -200,7 +201,7 @@ ___
 
 ___
 
-### ¿Qué es AWS 🌐?
+### 🌐 ¿Qué es AWS?
 ---
 **AWS (Amazon Web Services) es una plataforma en la nube que ofrece servicios de computación, almacenamiento, bases de datos, inteligencia artificial y mucho más.**  
 
@@ -212,7 +213,7 @@ ___
 
 ___
 
-### ¿Qué es 🖥️ Proxmox? 
+### 🖥️ ¿Qué es Proxmox? 
 ---
 **Proxmox es una plataforma de virtualización de código abierto que ofrece la posibilidad de gestionar tanto máquinas virtuales como contenedores en una interfaz sencilla y accesible. Es ideal para administrar servidores, probar entornos de software, o crear soluciones de alta disponibilidad y escalabilidad, todo ello sin los costos asociados a soluciones de virtualización propietarias.**  
 
@@ -225,7 +226,7 @@ ___
 
 ___
 
-### ¿Qué es Google Cloud? ☁️
+### ☁️ ¿Qué es Google Cloud? 
 ---
 **Google Cloud es una plataforma de computación en la nube que ofrece una amplia gama de servicios para ejecutar aplicaciones, almacenar datos y realizar análisis a gran escala. Con flexibilidad, seguridad y escalabilidad.**  
 
@@ -237,7 +238,7 @@ ___
 
 ___
 
-### ¿Qué es ☁️ Azure? 
+### ☁️ ¿Qué es Azure? 
 ---
 **Azure es una plataforma integral de computación en la nube de Microsoft que ofrece una amplia gama de servicios para desarrolladores, empresas y organizaciones con máquinas virtuales, almacenamiento, redes, inteligencia artificial y herramientas de desarrollo.**  
 
@@ -262,7 +263,7 @@ ___
 
 ___
 
-### ¿Qué es DevOps 🤖? 
+### 🤖 ¿Qué es DevOps? 
 ---
 **DevOps es una filosofía que busca mejorar la colaboración entre los equipos de desarrollo y operaciones para automatizar y agilizar el ciclo de vida del software. Con herramientas de integración continua, automatización de pruebas y despliegue, y monitoreo, DevOps permite entregar aplicaciones de alta calidad de manera rápida, escalable y eficiente.**  
 
