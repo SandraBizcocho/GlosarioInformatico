@@ -65,16 +65,25 @@
 
 
 
-### 🏛️ Active Directory  
-Servicio de directorio de Microsoft que administra usuarios y permisos en redes empresariales.  
+### ¿Qué significa 🏛️ Active Directory?
+**Active Directory (AD) es una herramienta de Microsoft que ayuda a gestionar y organizar los recursos de una red, como usuarios, computadoras, impresoras y otros dispositivos. Se usa principalmente en redes Windows.**
+*Ejemplo: En una empresa de 500 empleados los empleados tienen una cuenta única para acceder a sus dispositivos, correo electrónico y aplicaciones internas.*
+  
 
-### 🔒 HTTP vs HTTPS  
+
+### ¿Qué son 🔒 HTTP vs HTTPS?  
+**HTTP (HyperText Transfer Protocol) y HTTPS (HyperText Transfer Protocol Secure) son protocolos que se utilizan para la transferencia de datos entre tu navegador web y un servidor web. La principal diferencia entre ambos radica en la seguridad de la conexión.**
 - **HTTP**: Transfiere datos sin cifrado.  
 - **HTTPS**: Usa un certificado SSL/TLS para cifrar la comunicación.  
+*Ejemplo: HTTP (Sin seguridad) http://www.noticiasdelmundo.com = Un portal de noticias donde los usuarios leen artículos, pero no interactúan con datos sensibles (como contraseñas o pagos).*
+*Ejemplo de HTTPS (Con seguridad) https://www.amazon.com. La plataforma de compras en línea, donde los usuarios realizan pagos, guardan información personal y gestionan sus direcciones de envío. HTTPS es esencial para asegurar que la información no sea interceptada durante el proceso de compra.*
 
-### 🌍 Servicio DNS  
-Convierte nombres de dominio en direcciones IP.  
-**Ejemplo:** `google.com` → `142.250.184.238`.  
+
+### ¿Qué es un servicio DNS 🌍?   
+**El DNS (Domain Name System) es un sistema que traduce nombres de dominio legibles por humanos (como www.ejemplo.com) en direcciones IP (como 172.26.1.1), que es el formato utilizado por los pcs para identificar y comunicarse entre sí a través de Internet.**   
+*Ejemplo: `google.com` → `142.250.184.238`.*
+
+
 
 ### 🌐 Servicios Web (Apache, Nginx)  
 - **Apache:** Servidor web popular, flexible y con módulos.  
