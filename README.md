@@ -47,12 +47,23 @@
 
 
 
-## 🖥️ Servicios y Protocolos  
-### 📂 Servicio de Directorio  
-Sistema que almacena, organiza y gestiona información sobre usuarios y recursos en una red.  
+ 
+### ¿Qué es un 📂 Servicio de Directorio?
+**Un servicio de directorio es un sistema que almacena, organiza y gestiona información sobre usuarios y dispositivos, aplicaciones y otros recursos en una red. Es esencial para la administración centralizada de una infraestructura informática.**  
+*Ejemplos:*  
+*✅ Active Directory (AD) → De Microsoft, usado en redes Windows.*  
+*✅ OpenLDAP → Una alternativa de código abierto basada en LDAP.*  
+*✅ Apache Directory → Proyecto de la Apache Software Foundation.*  
+*✅ 389 Directory Server → Usado en sistemas Linux empresariales.*  
 
-### 🏢 OpenLDAP  
-Implementación de código abierto del protocolo LDAP para la gestión de usuarios y autenticación.  
+
+
+### ¿Qué es OpenLDAP 🏢?
+**Es una implementación de código abierto del protocolo LDAP (Lightweight Directory Access Protocol), que permite gestionar información de usuarios (como nombres y contraseñas), grupos y otros recursos dentro de una red de forma centralizada.** 
+*Ejemplo: una red universitaria para estudiantes y profesores donde se implementa OpenLDAP para gestionar el acceso a los sistemas de información académica (notas, clases, horarios) y a los servicios de biblioteca.*
+💡 Beneficio: Los estudiantes y profesores usan una única cuenta para todos los servicios de la universidad, lo que simplifica la administración.
+
+
 
 ### 🏛️ Active Directory  
 Servicio de directorio de Microsoft que administra usuarios y permisos en redes empresariales.  
