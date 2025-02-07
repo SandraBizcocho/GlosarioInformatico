@@ -33,7 +33,7 @@
 📌 Dato Curioso: Cada URL es única y permite acceder a recursos desde cualquier parte del mundo 🌍.  
 
 <p align="center">
-  <img src="/img/url.jpg" alt="![url](/img/url.jpg)" />
+  <img src="/img/url.jpeg" alt="![url](/img/url.jpeg)" />
 </p>  
 
 ### ¿Qué son los Puertos 🔌?
