@@ -1,6 +1,4 @@
-# Glosario Informatico <p align="center">
-  <img src="/img/glosario.gif" alt="![glosario](/img/glosario.gif)" />
-</p>  
+# Glosario Informatico <p align="center"><img src="/img/glosario.gif" alt="![glosario](/img/glosario.gif)" /></p>  
 
 ## ¿Qué es una IP (Internet Protocol) 📌?
 **Es una dirección única que identifica un dispositivo en una red.**    
