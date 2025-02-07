@@ -25,12 +25,12 @@
 ###  ¿Qué es URL (Uniform Resource Locator)🔗?
 **Una URL es la dirección completa que apunta a un recurso en Internet, como una página web, imagen o archivo. Es la forma en que los navegadores encuentran y acceden a sitios web.**    
 *Ejemplos*
-'✅ Página web: https://www.google.com' 
-'✅ Imagen: https://ejemplo.com/imagen.jpg'  
-'✅ Descarga: https://ejemplo.com/archivo.zip'  
-'✅ Video en YouTube: https://www.youtube.com/watch?v=dQw4w9WgXcQ'  
+✅ Página web: https://www.google.com  
+✅ Imagen: https://ejemplo.com/imagen.jpg  
+✅ Descarga: https://ejemplo.com/archivo.zip  
+✅ Video en YouTube: https://www.youtube.com/watch?v=dQw4w9WgXcQ  
 
-📌 Dato Curioso: Cada URL es única y permite acceder a recursos desde cualquier parte del mundo 🌍.*  
+📌 Dato Curioso: Cada URL es única y permite acceder a recursos desde cualquier parte del mundo 🌍.  
 
 
 ### ¿Qué son los Puertos 🔌?
