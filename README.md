@@ -49,7 +49,7 @@
 '🔹 Si te conectas a un servidor por SSH, usarás puerto 22.'  
 
 <p align="center">
-  <img src="/img/protocolo.png" alt="![protocolo](/img/protocolo.png)" />
+  <img src="/img/puerto.png" alt="![puerto](/img/puerto.png)" />
 </p>  
 
  
