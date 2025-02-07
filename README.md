@@ -9,7 +9,7 @@
 *Ejemplos: 172.26.1.1 para IPv4 y 2001:db8::ff00:42:8329 para IPv6*  
 
 <p align="center">
-  <img src="/img/ip.jpg" alt="![ip](/img/ip.jpg)" />
+  <img src="/img/ip.jpeg" alt="![ip](/img/ip.jpeg)" />
 </p>    
 
 
@@ -18,7 +18,7 @@
 *Ejemplo: Wikipedia → Dominio: wikipedia.org*   
 
 <p align="center">
-  <img src="/img/dominio.webp" alt="![dominio](/img/dominio.webp)" />
+  <img src="/img/dominio.jpeg" alt="![dominio](/img/dominio.jpeg)" />
 </p>  
 
 
