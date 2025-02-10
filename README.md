@@ -179,7 +179,7 @@ ___
 ---
 **SSH es un protocolo de acceso remoto que permite administrar servidores y ejecutar comandos de forma segura. Se utiliza ampliamente para la administración de sistemas y transferencia de archivos, y es la opción preferida por su capacidad para cifrar la comunicación y ofrecer autenticación robusta.**  
 
-*Ejemplo: un administrador de sistemas necesita gestionar un servidor que está en un centro de datos, actualizar su software, configurar servicios...**  
+*Ejemplo: un administrador de sistemas necesita gestionar un servidor que está en un centro de datos, actualizar su software, configurar servicios...*  
 
 
 <p align="center">
