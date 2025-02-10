@@ -53,7 +53,7 @@ ___
 - **80** → HTTP (Navegación web sin cifrar 🌍).  
 - **443** → HTTPS (Navegación web cifrada 🔐).
 
-*Ejemplos*
+*Ejemplos*  
 *🔹 Cuando accedes a http://ejemplo.com, el navegador usa puerto 80.*  
 *🔹 Si visitas https://ejemplo.com, usa puerto 443.*    
 *🔹 Si te conectas a un servidor por SSH, usarás puerto 22.*  
